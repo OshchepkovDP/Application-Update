@@ -36,8 +36,15 @@
 При данной стратегии разные версии не работают в одно и то же время, что могло бы привести к ошибкам. Так же, остальные стратегии требуют больших ресурсов системы. 
 
 ### Задание 2
+Скриншот создания приложения и обновления `nginx` до версии 1.20. 
+![deployment_and_update_nginx_v1.20.jpg](https://github.com/OshchepkovDP/Application-Update/blob/main/img/deployment_and_update_nginx_v1.20.jpg)
 
-![]()
+Скриншот обновления `nginx` до несуществующей версии 1.999, так как версия 1.28 существует и успешно устанавливается.
+![error_update.jpg](https://github.com/OshchepkovDP/Application-Update/blob/main/img/error_update.jpg)
+
+Скриншот отката до работающей версии
+![error_update2.jpg](https://github.com/OshchepkovDP/Application-Update/blob/main/img/error_update2.jpg)
+
 ### Задание 3*
 
 Не стал выполнять данное задание
